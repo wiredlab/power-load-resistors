@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC
+MountingHole,H4,MountingHole_3.2mm_M3,
+MountingHole,H3,MountingHole_3.2mm_M3,
+MountingHole,H2,MountingHole_3.2mm_M3,
+MountingHole,H1,MountingHole_3.2mm_M3,
+Jumper_2_Open,JP1,PinHeader_1x02_P2.54mm_Vertical,
+Conn_01x02,J2,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,
+Conn_01x02,J1,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,
+270,R1,R_Axial_Power_L25.0mm_W9.0mm_P30.48mm,
+25,R2,KAL25FB25R0,
